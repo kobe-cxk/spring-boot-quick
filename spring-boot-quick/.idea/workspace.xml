@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7de2ce0-2344-494c-a75d-6d532034198e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\javaexe\bos_repository" />
+        <option name="mavenHome" value="F:/javaexe/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="F:\javaexe\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TiJC4p87Jk5jfBrEHpghoKEYdR" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/public" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IdeaProjects\spring-boot-quick\src\main\resources\public" />
+      <recent name="F:\IdeaProjects\spring-boot-quick\src\main\resources\static" />
+      <recent name="F:\IdeaProjects\spring-boot-quick\config" />
+      <recent name="F:\IdeaProjects\spring-boot-quick" />
+      <recent name="F:\IdeaProjects\spring-boot-quick\src\main\resources\config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IdeaProjects\spring-boot-quick\src\test" />
+      <recent name="F:\IdeaProjects\spring-boot-quick\src\main\resources\templates" />
+      <recent name="F:\IdeaProjects\spring-boot-quick\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootQuickApplication">
+    <configuration name="SpringBootQuickApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-quick" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huawei.springbootquick.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.huawei.springbootquick" />
+      <option name="MAIN_CLASS_NAME" value="com.huawei.springbootquick.SpringBootQuickApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootQuickApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-quick" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huawei.springbootquick.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.huawei.springbootquick" />
+      <option name="MAIN_CLASS_NAME" value="com.huawei.springbootquick.SpringBootQuickApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootQuickApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-quick" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huawei.springbootquick.SpringBootQuickApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringBootQuickApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.SpringBootQuickApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7de2ce0-2344-494c-a75d-6d532034198e" name="Default Changelist" comment="" />
+      <created>1573936851572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573936851572</updated>
+      <workItem from="1573936852827" duration="1284000" />
+      <workItem from="1573956764524" duration="20000" />
+      <workItem from="1573959175771" duration="8419000" />
+      <workItem from="1573984802805" duration="3410000" />
+      <workItem from="1573989164162" duration="3769000" />
+      <workItem from="1574009804332" duration="4274000" />
+      <workItem from="1574014120497" duration="244000" />
+      <workItem from="1574014640471" duration="2071000" />
+      <workItem from="1574032730961" duration="953000" />
+      <workItem from="1575555357238" duration="169000" />
+      <workItem from="1575555571086" duration="11000" />
+      <workItem from="1575555707727" duration="6725000" />
+      <workItem from="1575689769898" duration="8819000" />
+      <workItem from="1575886768115" duration="10585000" />
+      <workItem from="1575988616406" duration="894000" />
+      <workItem from="1575989840911" duration="77000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.9.RELEASE/spring-boot-autoconfigure-1.5.9.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class</url>
+          <line>63</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

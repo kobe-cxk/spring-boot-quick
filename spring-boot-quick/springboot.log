@@ -1,0 +1,11 @@
+2019-11-17 11:07:22.508  INFO 16680 --- [main] c.h.s.SpringBootQuickApplicationTests    : Starting SpringBootQuickApplicationTests on BKAYG5XBSSRK0OB with PID 16680 (started by admin in F:\IdeaProjects\spring-boot-quick)
+2019-11-17 11:07:22.509 DEBUG 16680 --- [main] c.h.s.SpringBootQuickApplicationTests    : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-11-17 11:07:22.509  INFO 16680 --- [main] c.h.s.SpringBootQuickApplicationTests    : No active profile set, falling back to default profiles: default
+2019-11-17 11:07:23.998  INFO 16680 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-17 11:07:24.324  INFO 16680 --- [main] c.h.s.SpringBootQuickApplicationTests    : Started SpringBootQuickApplicationTests in 2.355 seconds (JVM running for 3.559)
+2019-11-17 11:07:24.522 TRACE 16680 --- [main] c.h.s.SpringBootQuickApplicationTests    : trace
+2019-11-17 11:07:24.522 DEBUG 16680 --- [main] c.h.s.SpringBootQuickApplicationTests    : debug
+2019-11-17 11:07:24.522  INFO 16680 --- [main] c.h.s.SpringBootQuickApplicationTests    : info
+2019-11-17 11:07:24.522  WARN 16680 --- [main] c.h.s.SpringBootQuickApplicationTests    : warn
+2019-11-17 11:07:24.523 ERROR 16680 --- [main] c.h.s.SpringBootQuickApplicationTests    : error
+2019-11-17 11:07:24.541  INFO 16680 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
