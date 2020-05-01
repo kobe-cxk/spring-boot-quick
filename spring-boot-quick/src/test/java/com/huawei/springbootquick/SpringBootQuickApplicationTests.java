@@ -16,13 +16,16 @@ public class SpringBootQuickApplicationTests {
         //级别，由低到高
         logger.trace("trace");
         //调试
-        logger.debug("debug");
+        //logger.debug("debug");
         //info
         logger.info("info");
         //警告
         logger.warn("warn");
         //错误
         logger.error("error");
+		logger.error("error");
+		logger.error("error");
+		logger.error("error");
     }
 
 }
